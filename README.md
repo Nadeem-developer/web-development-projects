@@ -1,2 +1,2 @@
-# web-development-projects
-my web development projects from beginner to advanced
+# web development project
+my first web-development project
